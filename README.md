@@ -1,6 +1,6 @@
 # Janken
 
-##A small "inspired" project meant as a challenge to myself.
+## A small "inspired" project meant as a challenge to myself.
 
 Even simple games that we used to play as kids, and still play now, contain some level of logic that requires a certain degree of a "computation thought process" for a beginner such as myself.
 
