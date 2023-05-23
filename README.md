@@ -1,3 +1,4 @@
+<img src="favicon.ico" />
 # Janken
 
 ## A small "inspired" project meant as a challenge to myself.
